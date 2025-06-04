@@ -1,7 +1,7 @@
 <?php
   $page_title = 'Add Group';
   require_once('includes/load.php');
-  // Checkin What level user has permission to view this page
+  // Checkin What level user has permission to view this page e
    page_require_level(1);
 ?>
 <?php
